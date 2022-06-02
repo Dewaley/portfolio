@@ -1,9 +1,7 @@
 import './App.css';
 
 function App() {
-  return (
-    <h2>Hello World</h2>
-  )
+  return <div className='bg-bgColor min-h-screen'></div>;
 }
 
 export default App;
